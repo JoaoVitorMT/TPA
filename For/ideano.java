@@ -19,7 +19,7 @@ public class ideano {
 
 		id = ana - ann;
 		
-		System.out.println("Sua idade é : "+ id);
+		System.out.println("Sua idade Ã© : "+ id);
 		
 		
 		if (idn == 0 ||id < idn) {
@@ -27,7 +27,7 @@ public class ideano {
 			idn = id;
 		
 		
-		}else if (  id >  idv) {
+		}else  (  id >  idv) {
 			
 			idv = id;
 	
